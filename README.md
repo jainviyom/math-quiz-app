@@ -2,6 +2,10 @@
 
 A no-install, offline worksheet generator for CBSE Class 5 NCERT Math-Magic. Pick chapters, generate a random paper, print or save as PDF.
 
+Live app: https://jainviyom.github.io/math-quiz-app/
+
+For the full BRD, system architecture, tech stack, and complete feature/question catalog, see [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md).
+
 ## How to use
 
 1. Double-click `index.html` to open it in any browser (Chrome, Edge, Safari).
